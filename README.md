@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [@softserveinc](https://github.com/SoftServeInc), as a third-party in [@cisco](https://github.com/cisco).
+- 🌱 I’m currently learning more about Kubernetes and Cloud.
+- 📫 How to reach me: [in/malcak](https://www.linkedin.com/in/malcak/) on LinkedIn.
+- 👾 Steam: [@malcak](https://github.com/malcak).
+
 <!--
 **Malcak/malcak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
